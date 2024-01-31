@@ -499,3 +499,7 @@ footer {
     display: flex;
     align-items: baseline;
 }
+
+.footer-webstudio-box {
+    margin-right: 120px;
+}
